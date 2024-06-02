@@ -1,6 +1,6 @@
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhkNGF5ZWIxejZhZWllanRtYmkwbnozY2VtNWlucHhkNDA3NW43NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.webp" width="100"/> Hola bienvendid@ a mi GitHub.
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhkNGF5ZWIxejZhZWllanRtYmkwbnozY2VtNWlucHhkNDA3NW43NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.webp" width="100"/> Hola bienvenid@ a mi GitHub. 🚀
 
-Hola mi nombre es José García, Desarrollador Junior, vivo en Venezuela
+Hola mi nombre es José García, Desarrollador Junior, vivo en Venezuela 💛💙❤️
 
 ## Tecnologías
 
