@@ -12,7 +12,7 @@ Hola mi nombre es José García, Desarrollador Junior, vivo en Venezuela 💛�
 
 ## Estadisticas del repositorio
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javier-GarciaP&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javier-GarciaP&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javier-GarciaP&layout=compact&theme=transparent)
 
